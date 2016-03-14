@@ -1,0 +1,11 @@
+/* TEAM */
+Developer: Tomasz Jaśkiewicz
+Twitter: @tomjaskiewicz
+Site: http://tomajask.github.io
+Location: Kraków, Poland
+
+/* SITE */
+Last update: 2016/03/14
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Atom
