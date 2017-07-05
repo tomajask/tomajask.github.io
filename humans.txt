@@ -5,7 +5,7 @@ Site: http://tomajask.github.io
 Location: Kraków, Poland
 
 /* SITE */
-Last update: 2016/03/14
+Last update: 2017/07/05
 Standards: HTML5, CSS3
 Components: Jekyll
 Software: Atom
